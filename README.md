@@ -1,7 +1,7 @@
 # SPSGP-83653-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-@author Hayagreevan V
+@author hayagreevan-v
 
 Google Developer Profile Link -> https://g.dev/hayagreevan_v
 Email Id ->  210701080@rajalakshmi.edu.in
